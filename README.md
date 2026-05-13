@@ -201,9 +201,8 @@ GitHub    ████████████████████
 | # | Area | Goal |
 |:--|:-----|:-----|
 | 01 | 🗄️ Advanced SQL | Window functions, CTEs, performance tuning |
-| 02 | 🤖 Machine Learning | Predictive analytics & model optimization |
 | 03 | 📊 Portfolio Projects | Building more end-to-end analytics projects |
-| 04 | 🌐 Deployment | Power BI Service & Streamlit cloud apps |
+| 04 | 🌐 Deployment | Power BI Service  |
 
 ---
 
