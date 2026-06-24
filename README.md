@@ -64,6 +64,14 @@ Matplotlib   ██████████████░░░░░░
 MySQL    ██████████████░░░░░░  
 ```
 
+**🤖 Machine Learning & Deployment**
+```
+Streamlit      ██████████████░░░░░░  
+Plotly         █████████████░░░░░░░  
+Scikit-learn   ████████████░░░░░░░░  
+FastAPI        ██████████░░░░░░░░░░  
+```
+
 **🧰 Tools & Workflow**
 ```
 Jupyter   ████████████████░░░░  
@@ -139,30 +147,30 @@ GitHub    ████████████████████
 ---
 
 <details open>
-<summary><b>🏦 &nbsp; Bank Loan Approval Prediction</b></summary>
+<summary><b>🌪️ &nbsp; Disaster Management Analytics Dashboard</b></summary>
 <br/>
 
-> Full end-to-end ML pipeline that predicts loan approval outcomes based on applicant details — from data preprocessing and model training to a live FastAPI backend and Streamlit UI.
+> Interactive disaster analytics platform built using Python, Pandas, Plotly, and Streamlit to analyze disaster events, affected regions, casualties, and trends through visual dashboards and downloadable reports.
 
 | Layer | Tools & Approach |
 |:------|:----------------|
-| 🧹 **Data Cleaning** | Python (Pandas) — missing value imputation, column removal, type conversion |
-| ⚙️ **Feature Engineering** | Categorical encoding, dependents normalization, feature selection |
-| 🤖 **Model Training** | Scikit-learn Logistic Regression — train/test split, accuracy evaluation |
-| 🔌 **Backend API** | FastAPI + Uvicorn — real-time prediction endpoint |
-| 🖥️ **Frontend UI** | Streamlit — interactive applicant input form with live predictions |
-| 📦 **Deployment** | Pickle model (.pkl) integrated across FastAPI & Streamlit |
+| 🧹 **Data Cleaning** | Python (Pandas) — handling missing values, duplicate removal, data transformation |
+| ⚙️ **Feature Engineering** | Extracted disaster categories, severity levels, and temporal features |
+| 🔍 **Exploratory Analysis** | Trend analysis, regional comparisons, and impact assessment |
+| 📈 **Visualization** | Plotly and Matplotlib — interactive charts and graphs |
+| 📊 **Dashboard** | Streamlit — KPI cards, filters, charts, and downloadable reports |
+| 📂 **Data Source** | CSV datasets containing disaster event records and impact statistics |
 
 **📌 Key Findings**
 
 ```
-📋  Credit history is the single strongest predictor of loan approval
-💰  Higher applicant income meaningfully improves approval probability
-🏙️  Urban applicants show higher approval rates than rural counterparts
-💍  Married applicants have a slightly higher approval likelihood
+🌍  Floods and storms account for a large share of recorded disasters
+📈  Certain regions experience consistently higher disaster frequency
+⚠️  Severe events contribute disproportionately to casualties and damages
+📊  Interactive dashboards enable quick analysis and report generation
 ```
 
-[![View Repo →](https://img.shields.io/badge/View%20Repo%20→-Loan--approval--prediction-00B4D8?style=flat-square&logo=github&logoColor=white)](https://github.com/siva252005/Loan-approval-prediction)
+[![View Repo →](https://img.shields.io/badge/View%20Repo%20→-Disaster--Management--Analytics-00B4D8?style=flat-square&logo=github&logoColor=white)](https://github.com/siva252005/Disaster-Management-Analytics)
 
 </details>
 
@@ -201,8 +209,9 @@ GitHub    ████████████████████
 | # | Area | Goal |
 |:--|:-----|:-----|
 | 01 | 🗄️ Advanced SQL | Window functions, CTEs, performance tuning |
+| 02 | 🤖 Machine Learning | Predictive analytics & model optimization |
 | 03 | 📊 Portfolio Projects | Building more end-to-end analytics projects |
-| 04 | 🌐 Deployment | Power BI Service  |
+| 04 | 🌐 Deployment | Power BI Service & Streamlit cloud apps |
 
 ---
 
